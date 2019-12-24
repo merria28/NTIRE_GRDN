@@ -1,6 +1,10 @@
 # NTIRE_GRDN
 
-NTIRE_test_code
+## 个人理解
+https://zhuanlan.zhihu.com/p/99063614
+
+## NTIRE_test_code
+
 =============
 These are all test scripts of our Grouped Residual Dense Network(GRDN) for [NTIRE 2019 Real Image Denoising Challenge](https://competitions.codalab.org/competitions/21258)
 
